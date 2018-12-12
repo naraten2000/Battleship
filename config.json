@@ -1,0 +1,22 @@
+{
+  "httpPort": 1337,
+  "DatabaseName": "battleship",
+
+  "_comment_grid_size": "Grid size definded here",
+  "grid_size": 10,
+
+  "_comment_ship_size": "Ship size definded here",
+  "battleship_size": 4,
+  "cruiser_size": 3,
+  "destroyer_size": 2,
+  "submarine_size": 1,
+
+  "_comment_ship_max_number": "Ship max number definded here",
+  "battleship_max_number": 1,
+  "cruiser_max_number": 2,
+  "destroyer_max_number": 3,
+  "submarine_max_number": 4,
+
+  "_comment_total_ship_number": "All ships needs to be placed",
+  "total_ship_number": 10
+}
